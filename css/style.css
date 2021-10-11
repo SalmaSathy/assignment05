@@ -1,0 +1,67 @@
+.header{
+	min-height: 80px;
+	background-color: red;
+}
+.wrapper{
+	overflow: hidden;
+
+}
+.contact{
+	min-height: 100px;
+	background-color: green;
+	width: 50%;
+	float: left;
+}
+.blog{
+	min-height: 100px;
+	background-color: blue;
+	width: 50%;
+	float: right;
+}
+.container{
+	
+	overflow: hidden;
+
+}
+.single{
+	min-height: 100px;
+	width: 33.33%;
+	float: left;
+	
+}
+.cyan{
+	background-color: cyan;
+
+}
+.orange{
+background-color: orange
+}
+.yellow{
+	background-color: yellow;
+}
+.container01{
+	overflow: hidden;
+}
+.tripple{
+	min-height: 100px;
+	width: 25%;
+	float: left;
+}
+.purple{
+	background-color: #AE00FB;
+}
+.neon{
+	background-color: #77D970;
+
+}
+.pink{
+	background-color: #FF00E4;
+
+}
+.purple1{
+	background-color:#F38EFF;
+}
+.footer{
+	min-height: 80px;
+	background-color: black;
+}
